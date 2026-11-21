@@ -122,5 +122,10 @@ O *split payment* é uma inovação tecnológica de recolhimento tributário aut
 ---
 
 ## 📸 Evidências e Materiais Anexos
-- Prints das interações no chat demonstrando as citações ativas das fontes: pasta `/assets`
-- Resumo estruturado das fontes e cronograma da reforma: pasta `/assets`
+Todos os arquivos de apoio e evidências de ancoragem estão disponíveis na pasta `/assets`:
+- **Prints das interações no chat:** demonstram as citações ativas das fontes oficiais e artigos da lei.
+- **Resumo estruturado e cronograma:** guia de estudos dinâmico acompanhado de quiz interativo em HTML.
+- **Mapa mental:** síntese visual dos pilares e dinâmica do tema.
+- **Apresentação em PDF:** material contendo a visão geral em forma de apresentação.
+- **Vídeo sobre o tema:** conteúdo multimídia gerado pela IA com base estrita nas fontes do caderno.
+
